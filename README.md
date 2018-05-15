@@ -6,4 +6,4 @@ title: Title from frontmatter
 
 This is a minimal configuration of VuePress using version 0.8.4
 
-In this configuration, the generated title is "Vuepress" in both index.html and 404.html. The description meta tag is blank.
+In this configuration, the generated title is correct for index.html, but incorrect for 404.html.
