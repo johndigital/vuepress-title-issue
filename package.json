@@ -1,0 +1,10 @@
+{
+    "name": "vuepress-title-issue",
+    "description": "Issue replication for vuepress bug.",
+    "scripts": {
+        "build": "vuepress build"
+    },
+    "dependencies": {
+        "vuepress": "^0.8.4"
+    }
+}
